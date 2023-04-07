@@ -1,8 +1,11 @@
+
+# ----------------------------------------------------------------------------------------------------------------
 # Shreya B Deshpande  
 # This project is done through Codecademy
 # In this project, user answers to an input of their name. A question is asked to the user whether they are ready
 # to play the game. Then, a random number is generated from 1 to 9, which gives specific answer for that number.
-# Lastly, name with question and following number with answer is printed
+# Lastly, name with question and following number with answer is
+# -----------------------------------------------------------------------------------------------------------------
 
 import random
 
